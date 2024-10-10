@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className=" bg-[#FFDD55] min-h-screen">
+    <div className="h-screen overflow-hidden bg-[#FFDD55] min-h-screen">
       <nav className="flex justify-between items-center rounded-bl-3xl rounded-br-3xl bg-black text-white px-8 py-4 md:px-[5em] md:py[1em] ">
         <a href="">
           <img
