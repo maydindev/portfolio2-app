@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.customShadow {
+  box-shadow: 5px 10px 10px rgba(72, 187, 120, 0.5)
+}
